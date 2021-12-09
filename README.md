@@ -1,11 +1,7 @@
 ### ¡Hola a todos! Mi nombre es Martín - aka [Martín Gutierrez][Facebook] 👋
 
-## Soy estudiante, Profesor y desarrollador de Software
+## Soy estudiante y me gusta los sistemas embebidos
 
-- Estos son algunos de mis cursos:
-- 👉[Curso de C](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B)[<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][cursoC]!
-- 👉[Curso de Git & GitHub](https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF)[<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][cursoGit&GitHub]!
-- 👉[Curso de Photoshop](https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />][cursoPhotoshop]!
 - ⚡ Busco colaborar con otros creadores de contenido
 - ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
 
@@ -112,19 +108,10 @@ __Cursos:__
 
 </details>
 
-
-[Adobe]: https://www.adobe.com/mx/creativecloud.html?sdid=KQPRD&mv=search&ef_id=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB:G:s&s_kwcid=AL!3085!3!442675031911!e!!g!!adobe!188200542!10039634022&gclid=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB
-[website]: https://capdesis.com/
 [youtube]: https://www.youtube.com/channel/UChoDyFV5T1t9qWymeTz8Gvg
 [instagram]: https://www.instagram.com/c_h_o_c_h_y/
-[Facebook]: https://www.facebook.com/ChoChochitos
-[linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/
-[cursoC]: https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B
-[cursoGit&GitHub]: https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF
-[cursoPhotoshop]: https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB
+[Facebook]: https://www.facebook.com/martin.gutierrez.79656921
+[linkedin]: https://www.linkedin.com/in/mart%C3%ADn-guti%C3%A9rrez-hern%C3%A1ndez-2953b2216/
 [web]:  https://www.google.com/
 
-[Formulae]: https://play.google.com/store/apps/details?id=capdesis.formulae
-[FormulaePro]: https://play.google.com/store/apps/details?id=com.formulae.pro.formulae_calculo_pro
-[Fisica]: https://play.google.com/store/apps/details?id=app.ejemplocalc.CalculadoraFisica
 
