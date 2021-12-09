@@ -1,11 +1,11 @@
-### ¡Hola a todos! Mi nombre es Martín - aka [Martín Gutierrez][Facebook] 👋
+### ¡Hello Everyone! My name is Martín - clic [Martín Gutierrez][Facebook] 👋
 
-## Soy estudiante y me gusta los sistemas embebidos
+## I am a student and I am fascinated when we merge software and hardware in embedded systems.
 
 - ⚡ Busco colaborar con otros creadores de contenido
 - ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
 
-### Contactame!:
+### Contact me!:
 
 [<img align="bottom" alt="capdesis.com" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />][youtube]
@@ -28,7 +28,7 @@ __Generales:__
 <br />
 
 ---
-__Desarrollo Móvil:__
+__Microcontroller:__
 <br />
 <img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="30" height="30" />
